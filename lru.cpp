@@ -1,7 +1,7 @@
 
 ---
 
-## 🧑‍💻 LRU Cache (C++ Implementation: `lru.cpp`)
+##  LRU Cache (C++ Implementation: `lru.cpp`)
 
 ```cpp
 #include <iostream>
