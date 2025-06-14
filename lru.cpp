@@ -1,9 +1,3 @@
-
----
-
-##  LRU Cache (C++ Implementation: `lru.cpp`)
-
-```cpp
 #include <iostream>
 #include <unordered_map>
 #include <list>
